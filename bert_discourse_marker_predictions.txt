@@ -1,0 +1,506 @@
+Original Sentence: you 're probably
+Masked Sentence: you 're [MASK]
+Actual Marker: probably
+Predicted Tokens: ['not', 'and', 'like', 'here', 'the', 'everything', 'real', 'gone', 'dead']
+Correct: No
+
+Original Sentence: y- your b- not in Egypt no I used to see vast you know the big boxes you know cos we
+Masked Sentence: y- your b- not in Egypt [MASK] I used to see vast you know the big boxes you know cos we
+Actual Marker: no
+Predicted Tokens: ['like', 'but', 'as', 'that', 'where', 'and', 'which', 'so', 'or', 'what', 'when', 'because']
+Correct: No
+
+Original Sentence: all our sugar and it was all sugar cane which only grows in places like Jamaica and very tropical countries
+Masked Sentence: all our sugar and it was all sugar cane which [MASK] grows in places like Jamaica and very tropical countries
+Actual Marker: only
+Predicted Tokens: ['still', 'now', 'it', 'only', 'also', 'naturally', 'today', 'is', 'nowadays', 'mostly', 'he', 'always', 'actually', 'usually', 'sometimes', 'really', 'often', 'currently', 'even', 'mainly']
+Correct: Yes
+
+Original Sentence: it does n't matter if you 've got a Range Rover and a big house and that you can still blooming starve to death
+Masked Sentence: it does n't matter if you 've got a Range Rover and a big house and that you can [MASK] blooming starve to death
+Actual Marker: still
+Predicted Tokens: ['go', 'see', 'leave', 'let', 'keep', 'get', 'be', 'all', 'come', 'send', 'the', 'help', 'make', 'stop', 'find', 'watch', 'bring', 'walk', 'take', 'have']
+Correct: No
+
+Original Sentence: yeah she did she did
+Masked Sentence: [MASK] she did she did
+Actual Marker: yeah
+Predicted Tokens: ['and', 'but', 'when', 'what', 'if', 'so', 'as', 'yes', 'because', 'whatever', 'then', 'like', 'everything', 'well', 'that', 'oh', 'before', 'once', 'while']
+Correct: No
+
+Original Sentence: oh yes please that 'd be nice I found this book mum on the shelf
+Masked Sentence: [MASK] [MASK] [MASK] that 'd be nice I found this book mum on the shelf
+Actual Marker: oh
+Predicted Tokens: ['oh', 'my', 'and', 'no', 'the', 'thank', 'thanks', 'hey', 'holy', 'but', 'well', 'ah', 'okay']
+Correct: Yes
+
+Original Sentence: oh yes please that 'd be nice I found this book mum on the shelf
+Masked Sentence: [MASK] [MASK] [MASK] that 'd be nice I found this book mum on the shelf
+Actual Marker: yes
+Predicted Tokens: ['thanks', 'and', 'no', 'yes', 'yeah', 'oh', 'well', 'okay', 'hey', 'my', 'wow', 'ok', 'but']
+Correct: Yes
+
+Original Sentence: oh yes please that 'd be nice I found this book mum on the shelf
+Masked Sentence: [MASK] [MASK] [MASK] that 'd be nice I found this book mum on the shelf
+Actual Marker: please
+Predicted Tokens: ['thought', 'maybe', 'and', 'well', 'if', 'but', 'yes', 'said', 'now', 'thanks', 'then']
+Correct: No
+
+Original Sentence: but they dress them as like big pumpkins and stuff do n't they ? On Halloween
+Masked Sentence: but they dress them as [MASK] big pumpkins and stuff do n't they ? On Halloween
+Actual Marker: like
+Predicted Tokens: ['the', 'like', 'some', 'these', 'big', 'real', 'those', 'really', 'pretty', 'little', 'very', 'great', 'two', 'my', 'just', 'their', 'our', 'your']
+Correct: Yes
+
+Original Sentence: but we um might be do what they 've got these park runs now
+Masked Sentence: but we [MASK] might be do what they 've got these park runs now
+Actual Marker: um
+Predicted Tokens: ['just', 'still', 'all', 'really', 'could', 'also', 'might', 'can', 'would', 'sure', 'both', 'do', 'will', 'always', 'guys', 'should']
+Correct: No
+
+Original Sentence: it 's not too late I would n't think
+Masked Sentence: it 's not too [MASK] I would n't think
+Actual Marker: late
+Predicted Tokens: ['bad', 'much', 'hard', 'far', 'late', 'easy', 'good', 'long', 'soon', 'big', 'what', 'cold', 'difficult', 'dangerous', 'nice', 'busy', 'early', 'well', 'hot']
+Correct: Yes
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: I think what 'll be doing is backing Israel rather than fighting themselves they 'll just be backing Israel
+Masked Sentence: I think what 'll be doing is backing Israel rather than fighting themselves they 'll [MASK] be backing Israel
+Actual Marker: just
+Predicted Tokens: ['also', 'still', 'not', 'always', 'all', 'just', 'never', 'only', 'even', 'actually', 'definitely', 'probably', 'rather', 'already', 'be', 'really', 'soon', 'now', 'instead', 'certainly']
+Correct: Yes
+
+Original Sentence: hmm
+Masked Sentence: [MASK]
+Actual Marker: hmm
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: well maybe we should erm impose
+Masked Sentence: [MASK] [MASK] we should [MASK] impose
+Actual Marker: well
+Predicted Tokens: ['and', 'but', 'so', 'maybe', 'or', 'perhaps', 'besides', 'no', 'now', 'then', 'also', 'anyway', 'probably', 'if', 'oh']
+Correct: No
+
+Original Sentence: well maybe we should erm impose
+Masked Sentence: [MASK] [MASK] we should [MASK] impose
+Actual Marker: maybe
+Predicted Tokens: ['maybe', 'perhaps', 'then', 'if', 'that', 'and', 'think', 'said', 'surely', 'but', 'thought', 'so', 'says', 'suppose']
+Correct: Yes
+
+Original Sentence: well maybe we should erm impose
+Masked Sentence: [MASK] [MASK] we should [MASK] impose
+Actual Marker: erm
+Predicted Tokens: ['not', 'just', 'never', 'probably', 'go', 'definitely', 'still', 'simply', 'all', 'really', 'only', 'always', 'also', 'be', 'certainly', 'rather', 'both']
+Correct: No
+
+Original Sentence: oh yeah
+Masked Sentence: [MASK] [MASK]
+Actual Marker: oh
+Predicted Tokens: ['vol', 'ii', 'trans', 'ed', 'math', 'soc', 'iii', 'fr', 'ch', 'art', 'bull', 'no', 'vii', 'ix', 'london', 'sci', 'acc']
+Correct: No
+
+Original Sentence: oh yeah
+Masked Sentence: [MASK] [MASK]
+Actual Marker: yeah
+Predicted Tokens: []
+Correct: No
+
+Original Sentence: yeah and and yeah
+Masked Sentence: [MASK] and and [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and', 'for', 'with', 'between', 'then', 'but', 'where', 'add', 'plus', 'so', 'both', 'see', 'now', 'hence', 'or']
+Correct: No
+
+Original Sentence: yeah and and yeah
+Masked Sentence: [MASK] and and [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and', 'for', 'are', 'with', 'in', 'because']
+Correct: No
+
+Original Sentence: erm because it 's a stigma really erm the use of the word lady erm or woman a woman doctor my mother always tell me to use the wor- if you say oh that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've always got to say lady
+Masked Sentence: [MASK] because it 's a stigma [MASK] [MASK] the use of the word lady [MASK] or woman a woman doctor my mother [MASK] tell me to use the wor- if you say [MASK] that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've [MASK] got to say lady
+Actual Marker: erm
+Predicted Tokens: ['just', 'perhaps', 'and', 'maybe', 'probably', 'but', 'not', 'me', 'or', 'so', 'only', 'simply', 'also', 'doctor', 'all']
+Correct: No
+
+Original Sentence: erm because it 's a stigma really erm the use of the word lady erm or woman a woman doctor my mother always tell me to use the wor- if you say oh that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've always got to say lady
+Masked Sentence: [MASK] because it 's a stigma [MASK] [MASK] the use of the word lady [MASK] or woman a woman doctor my mother [MASK] tell me to use the wor- if you say [MASK] that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've [MASK] got to say lady
+Actual Marker: really
+Predicted Tokens: ['of', 'associated', 'because', 'or', 'against', 'for', 'and', 'that', 'attached', 'on', 'involved', 'about', 'surrounding', 'here']
+Correct: No
+
+Original Sentence: erm because it 's a stigma really erm the use of the word lady erm or woman a woman doctor my mother always tell me to use the wor- if you say oh that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've always got to say lady
+Masked Sentence: [MASK] because it 's a stigma [MASK] [MASK] the use of the word lady [MASK] or woman a woman doctor my mother [MASK] tell me to use the wor- if you say [MASK] that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've [MASK] got to say lady
+Actual Marker: erm
+Predicted Tokens: ['to', 'for', 'on', 'of', 'from', 'in', 'about', 'with', 'against', 'and', 'by', 'than', 'that', 'concerning', 'is', 'regarding', 'over']
+Correct: No
+
+Original Sentence: erm because it 's a stigma really erm the use of the word lady erm or woman a woman doctor my mother always tell me to use the wor- if you say oh that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've always got to say lady
+Masked Sentence: [MASK] because it 's a stigma [MASK] [MASK] the use of the word lady [MASK] or woman a woman doctor my mother [MASK] tell me to use the wor- if you say [MASK] that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've [MASK] got to say lady
+Actual Marker: erm
+Predicted Tokens: ['doctor', 'man', 'woman', 'lady', 'husband', 'person', 'mother', 'physician', 'child', 'one', 'patient', 'doc']
+Correct: No
+
+Original Sentence: erm because it 's a stigma really erm the use of the word lady erm or woman a woman doctor my mother always tell me to use the wor- if you say oh that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've always got to say lady
+Masked Sentence: [MASK] because it 's a stigma [MASK] [MASK] the use of the word lady [MASK] or woman a woman doctor my mother [MASK] tell me to use the wor- if you say [MASK] that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've [MASK] got to say lady
+Actual Marker: always
+Predicted Tokens: ['would', 'might', 'could', 'will', 'always', 'should', 'can', 'did', 'wouldn', 'may', 'never', 'must', 'just', 'does']
+Correct: Yes
+
+Original Sentence: erm because it 's a stigma really erm the use of the word lady erm or woman a woman doctor my mother always tell me to use the wor- if you say oh that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've always got to say lady
+Masked Sentence: [MASK] because it 's a stigma [MASK] [MASK] the use of the word lady [MASK] or woman a woman doctor my mother [MASK] tell me to use the wor- if you say [MASK] that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've [MASK] got to say lady
+Actual Marker: oh
+Predicted Tokens: ['that', 'anything', 'what', 'it', 'yes', 'no', 'something', 'yourself', 'so', 'if', 'why', 'this', 'lady', 'when']
+Correct: No
+
+Original Sentence: erm because it 's a stigma really erm the use of the word lady erm or woman a woman doctor my mother always tell me to use the wor- if you say oh that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've always got to say lady
+Masked Sentence: [MASK] because it 's a stigma [MASK] [MASK] the use of the word lady [MASK] or woman a woman doctor my mother [MASK] tell me to use the wor- if you say [MASK] that woman over there has got a bright red jacket on my mother would say to me it 's very rude to use the word woman you 've [MASK] got to say lady
+Actual Marker: always
+Predicted Tokens: ['always', 'just', 'never', 'only', 'not', 'really', 'all', 'already', 'still', 'also', 'probably', 'ever', 'got', 'even', 'now', 'actually', 'finally', 'suddenly', 'obviously', 'definitely']
+Correct: Yes
+
+Original Sentence: I 'm not even sure I understood that do you know --UNCLEARWORD
+Masked Sentence: I 'm not [MASK] sure I understood that do you know --UNCLEARWORD
+Actual Marker: even
+Predicted Tokens: ['even', 'so', 'really', 'entirely', 'quite', 'exactly', 'too', 'altogether', 'completely', 'actually', 'for', 'very', 'totally', 'absolutely', 'that', 'sure', 'real', 'yet', 'anymore']
+Correct: Yes
+
+Original Sentence: no when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he actually lived with her parents and stayed friendly with her and we 've just he 's always exchanged Christmas cards with her and so we did go and see her when we went to Poland about fifteen years ago and erm
+Masked Sentence: [MASK] when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he [MASK] lived with her parents and stayed friendly with her and we 've [MASK] he 's [MASK] exchanged Christmas cards with her and [MASK] we did go and see her when we went to Poland about fifteen years ago and [MASK]
+Actual Marker: no
+Predicted Tokens: ['and', 'so', 'but', 'then', 'once', 'because', 'well', 'now', 'later', 'that', 'when', 'also', 'anyway', 'however', 'even']
+Correct: No
+
+Original Sentence: no when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he actually lived with her parents and stayed friendly with her and we 've just he 's always exchanged Christmas cards with her and so we did go and see her when we went to Poland about fifteen years ago and erm
+Masked Sentence: [MASK] when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he [MASK] lived with her parents and stayed friendly with her and we 've [MASK] he 's [MASK] exchanged Christmas cards with her and [MASK] we did go and see her when we went to Poland about fifteen years ago and [MASK]
+Actual Marker: actually
+Predicted Tokens: ['has', 'just', 'probably', 'also', 'had', 'always', 'actually', 'never', 'still', 'only', 'really', 'once', 'even', 'maybe', 'too', 'then', 'mostly', 'usually', 'both', 'he']
+Correct: Yes
+
+Original Sentence: no when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he actually lived with her parents and stayed friendly with her and we 've just he 's always exchanged Christmas cards with her and so we did go and see her when we went to Poland about fifteen years ago and erm
+Masked Sentence: [MASK] when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he [MASK] lived with her parents and stayed friendly with her and we 've [MASK] he 's [MASK] exchanged Christmas cards with her and [MASK] we did go and see her when we went to Poland about fifteen years ago and [MASK]
+Actual Marker: just
+Predicted Tokens: ['heard', 'said', 'seen', 'found', 'known', 'noticed', 'agreed', 'say', 'talked', 'met', 'thought', 'mentioned', 'bet', 'got', 'discovered', 'been', 'know']
+Correct: No
+
+Original Sentence: no when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he actually lived with her parents and stayed friendly with her and we 've just he 's always exchanged Christmas cards with her and so we did go and see her when we went to Poland about fifteen years ago and erm
+Masked Sentence: [MASK] when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he [MASK] lived with her parents and stayed friendly with her and we 've [MASK] he 's [MASK] exchanged Christmas cards with her and [MASK] we did go and see her when we went to Poland about fifteen years ago and [MASK]
+Actual Marker: always
+Predicted Tokens: ['never', 'even', 'always', 'also', 'ever', 'probably', 'just', 'often', 'not', 'actually', 'sometimes', 'already', 'only', 'really', 'still', 'once', 'occasionally', 'regularly', 'all', 'recently']
+Correct: Yes
+
+Original Sentence: no when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he actually lived with her parents and stayed friendly with her and we 've just he 's always exchanged Christmas cards with her and so we did go and see her when we went to Poland about fifteen years ago and erm
+Masked Sentence: [MASK] when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he [MASK] lived with her parents and stayed friendly with her and we 've [MASK] he 's [MASK] exchanged Christmas cards with her and [MASK] we did go and see her when we went to Poland about fifteen years ago and [MASK]
+Actual Marker: so
+Predicted Tokens: ['so', 'that', 'then', 'yet', 'but', 'yes', 'and', 'maybe', 'now', 'if', 'said', 'actually', 'finally', 'indeed', 'well', 'when', 'say', 'how', 'once']
+Correct: Yes
+
+Original Sentence: no when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he actually lived with her parents and stayed friendly with her and we 've just he 's always exchanged Christmas cards with her and so we did go and see her when we went to Poland about fifteen years ago and erm
+Masked Sentence: [MASK] when he went to Poland for a year he he went to the art college and the secretary there he said to her I ha- I 've got nowhere to live and she said I think my parents have got a room so he [MASK] lived with her parents and stayed friendly with her and we 've [MASK] he 's [MASK] exchanged Christmas cards with her and [MASK] we did go and see her when we went to Poland about fifteen years ago and [MASK]
+Actual Marker: erm
+Predicted Tokens: ['so', 'and', 'now', 'oh', 'yes', 'then', 'there']
+Correct: No
+
+Original Sentence: do you not think ? he 's absolutely super
+Masked Sentence: do you not think ? he 's [MASK] super
+Actual Marker: absolutely
+Predicted Tokens: ['the', 'my', 'so', 'like', 'not', 'just', 'your', 'that', 'gone', 'still', 'no', 'his', 'too', 'really', 'super', 'our', 'real', 'going']
+Correct: No
+
+Original Sentence: yes indeed
+Masked Sentence: [MASK] [MASK]
+Actual Marker: yes
+Predicted Tokens: ['vol', 'ii', 'trans', 'ed', 'math', 'soc', 'iii', 'fr', 'ch', 'art', 'bull', 'no', 'vii', 'ix', 'london', 'sci', 'acc']
+Correct: No
+
+Original Sentence: yes indeed
+Masked Sentence: [MASK] [MASK]
+Actual Marker: indeed
+Predicted Tokens: []
+Correct: No
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: yeah no absolutely
+Masked Sentence: [MASK] [MASK] [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['vol', 'no', 'ed', 'ii', 'trans', 'london', 'pt', 'pp', 'art', 'ch', 'op', 'fr', 'iii']
+Correct: No
+
+Original Sentence: yeah no absolutely
+Masked Sentence: [MASK] [MASK] [MASK]
+Actual Marker: no
+Predicted Tokens: ['vol', 'ed', 'ii', 'no', 'sgt', 'iii', 'trans']
+Correct: Yes
+
+Original Sentence: yeah no absolutely
+Masked Sentence: [MASK] [MASK] [MASK]
+Actual Marker: absolutely
+Predicted Tokens: ['on', 'in']
+Correct: No
+
+Original Sentence: but narrower yeah I do n't like the sound of it to be honest I think it sounds quite dangerous because if you if you 're slowing down for example if you 're coming up to traffic lights or something
+Masked Sentence: but narrower [MASK] I do n't like the sound of it to be honest I think it sounds quite dangerous because if you if you 're slowing down for example if you 're coming up to traffic lights or something
+Actual Marker: yeah
+Predicted Tokens: ['than', 'and', 'because', 'still', 'but', 'as', 'stuff', 'now', 'course', 'then', 'maybe', 'it', 'road', 'that', 'well']
+Correct: No
+
+Original Sentence: yeah but none of that none of the stuff out there is rubbish
+Masked Sentence: [MASK] but none of that none of the stuff out there is rubbish
+Actual Marker: yeah
+Predicted Tokens: ['and', 'oh', 'no', 'but', 'yes', 'well', 'maybe', 'that', 'now']
+Correct: No
+
+Original Sentence: they had to they always wanted to rebel against it so that 's sort of something that 's
+Masked Sentence: they had to they [MASK] wanted to rebel against it [MASK] that 's sort of something that 's
+Actual Marker: always
+Predicted Tokens: ['just', 'all', 'really', 'still', 'never', 'only', 'had', 'always', 'even', 'also', 'probably', 'they', 'have', 'actually', 'simply', 'both', 'who', 'not', 'sure', 'almost']
+Correct: Yes
+
+Original Sentence: they had to they always wanted to rebel against it so that 's sort of something that 's
+Masked Sentence: they had to they [MASK] wanted to rebel against it [MASK] that 's sort of something that 's
+Actual Marker: so
+Predicted Tokens: ['and', 'but', 'because', 'so', 'well', 'or', 'like', 'that', 'if', 'cause', 'maybe', 'anyway']
+Correct: Yes
+
+Original Sentence: yeah they 're really yeah it 's cool
+Masked Sentence: [MASK] they 're [MASK] [MASK] it 's cool
+Actual Marker: yeah
+Predicted Tokens: ['if', 'when', 'but', 'and', 'once', 'whatever', 'what', 'that', 'so', 'because', 'now', 'whether', 'where', 'since', 'all', 'maybe', 'while', 'unless']
+Correct: No
+
+Original Sentence: yeah they 're really yeah it 's cool
+Masked Sentence: [MASK] they 're [MASK] [MASK] it 's cool
+Actual Marker: really
+Predicted Tokens: ['right', 'here', 'not', 'dead', 'talking', 'okay', 'there', 'alive', 'good', 'gone', 'happy', 'saying', 'going', 'wrong', 'coming', 'thinking', 'real', 'fine', 'scared', 'done']
+Correct: No
+
+Original Sentence: yeah they 're really yeah it 's cool
+Masked Sentence: [MASK] they 're [MASK] [MASK] it 's cool
+Actual Marker: yeah
+Predicted Tokens: ['and', 'because', 'like', 'that', 'when', 'but', 'or', 'saying', 'then', 'so', 'thinking', 'what']
+Correct: No
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: yes if you like
+Masked Sentence: [MASK] if you like
+Actual Marker: yes
+Predicted Tokens: ['call', 'wait', 'come', 'stay', 'see', 'talk', 'but', 'check', 'go', 'play', 'now', 'and', 'sleep', 'ask', 'only', 'sit', 'speak']
+Correct: No
+
+Original Sentence: oh is that where that comes from ? That just shows my ignorance
+Masked Sentence: [MASK] is that where that comes from ? That just shows my ignorance
+Actual Marker: oh
+Predicted Tokens: ['and', 'or', 'but', 'so', 'now', 'why', 'how', 'because', 'well', 'what', 'oh', 'maybe']
+Correct: Yes
+
+Original Sentence: yeah America as you think of it erm
+Masked Sentence: [MASK] America as you think of it [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['not', 'or', 'and', 'north', 'south', 'imagine', 'in', 'define', 'the', 'see', 'save', 'take', 'like', 'for', 'ignore', 'just', 'of', 'miss']
+Correct: No
+
+Original Sentence: yeah America as you think of it erm
+Masked Sentence: [MASK] America as you think of it [MASK]
+Actual Marker: erm
+Predicted Tokens: ['and', 'to', 'from', 'is', 'or']
+Correct: No
+
+Original Sentence: oh yeah if it was n't Radox
+Masked Sentence: [MASK] [MASK] if it was n't Radox
+Actual Marker: oh
+Predicted Tokens: ['what', 'and', 'but', 'even', 'or', 'how', 'so', 'why', 'well', 'now', 'as', 'then', 'because', 'only', 'who', 'no']
+Correct: No
+
+Original Sentence: oh yeah if it was n't Radox
+Masked Sentence: [MASK] [MASK] if it was n't Radox
+Actual Marker: yeah
+Predicted Tokens: ['what', 'even', 'and', 'wonder', 'but', 'as', 'only', 'sure', 'so', 'now', 'well', 'thing', 'know']
+Correct: No
+
+Original Sentence: yeah because the Ford factory is in Liverpool
+Masked Sentence: [MASK] because the Ford factory is in Liverpool
+Actual Marker: yeah
+Predicted Tokens: ['partly', 'also', 'and', 'but', 'mainly', 'especially', 'mostly', 'probably', 'not', 'only', 'notable', 'just', 'possibly', 'partially', 'second']
+Correct: No
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: you know so
+Masked Sentence: you know [MASK]
+Actual Marker: so
+Predicted Tokens: ['what', 'when', 'that', 'me', 'about', 'where', 'why']
+Correct: No
+
+Original Sentence: well I mean mum jumps on the same wagon
+Masked Sentence: [MASK] I mean mum jumps on the same wagon
+Actual Marker: well
+Predicted Tokens: ['and', 'but', 'oh', 'no', 'so', 'or', 'well', 'because', 'if', 'now', 'maybe', 'what', 'in', 'sometimes']
+Correct: Yes
+
+Original Sentence: yeah all the land
+Masked Sentence: [MASK] all the land
+Actual Marker: yeah
+Predicted Tokens: ['of', 'for', 'in', 'and', 'to', 'across', 'on', 'over', 'through', 'with', 'conquer', 'love', 'above', 'about', 'from', 'by', 'take', 'like']
+Correct: No
+
+Original Sentence: exactly where to put it
+Masked Sentence: [MASK] where to put it
+Actual Marker: exactly
+Predicted Tokens: ['and', 'but', 'or', 'so', 'see', 'now', 'then', 'just', 'guess', 'know', 'like', 'say', 'wonder', 'maybe', 'for', 'ask', 'about']
+Correct: No
+
+Original Sentence: exactly
+Masked Sentence: [MASK]
+Actual Marker: exactly
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: okay and so you 're giving your address
+Masked Sentence: [MASK] and so you 're giving your address
+Actual Marker: okay
+Predicted Tokens: ['oh', 'and', 'so', 'now', 'then']
+Correct: No
+
+Original Sentence: yes
+Masked Sentence: [MASK]
+Actual Marker: yes
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: mm
+Masked Sentence: [MASK]
+Actual Marker: mm
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: oh you would n't find it France ?
+Masked Sentence: [MASK] you would n't find it France ?
+Actual Marker: oh
+Predicted Tokens: ['surely', 'that', 'but', 'and', 'so', 'maybe', 'perhaps', 'if', 'what', 'then', 'think', 'because', 'how', 'or', 'why', 'thought', 'sure', 'where']
+Correct: No
+
+Original Sentence: yeah
+Masked Sentence: [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: oh cos he 's
+Masked Sentence: [MASK] cos he 's
+Actual Marker: oh
+Predicted Tokens: ['but', 'and', 'even', 'or', 'that', 'he', 'see', 'well', 'just', 'let', 'oh', 'no']
+Correct: Yes
+
+Original Sentence: yeah yeah
+Masked Sentence: [MASK] [MASK]
+Actual Marker: yeah
+Predicted Tokens: ['vol', 'ii', 'trans', 'ed', 'math', 'soc', 'iii', 'fr', 'ch', 'art', 'bull', 'no', 'vii', 'ix', 'london', 'sci', 'acc']
+Correct: No
+
+Original Sentence: yeah yeah
+Masked Sentence: [MASK] [MASK]
+Actual Marker: yeah
+Predicted Tokens: []
+Correct: No
+
+Original Sentence: well
+Masked Sentence: [MASK]
+Actual Marker: well
+Predicted Tokens: ['and']
+Correct: No
+
+Original Sentence: mm
+Masked Sentence: [MASK]
+Actual Marker: mm
+Predicted Tokens: ['and']
+Correct: No
+
+
+Evaluation Metrics:
+Accuracy: 0.25
+Precision: 1.00
+Recall: 0.25
+F1 Score: 0.40
+
+Top 20 Most Common Masked Words:
+yeah: 23
+oh: 7
+erm: 6
+yes: 4
+always: 4
+no: 3
+well: 3
+so: 3
+just: 2
+really: 2
+absolutely: 2
+exactly: 2
+mm: 2
+probably: 1
+only: 1
+still: 1
+please: 1
+like: 1
+um: 1
+late: 1
+
+Top 20 Most Common Predicted Words:
+and: 48
+but: 25
+so: 22
+now: 19
+that: 18
+or: 15
+then: 15
+well: 15
+just: 15
+no: 14
+maybe: 14
+because: 13
+what: 12
+only: 12
+also: 12
+not: 11
+really: 11
+even: 11
+like: 10
+still: 10

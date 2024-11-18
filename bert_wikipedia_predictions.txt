@@ -1,0 +1,798 @@
+Original Sentence: AI developers argue that this is the only way to deliver valuable applications.
+Masked Sentence: AI developers argue [MASK] this is [MASK] only way to deliver valuable applications.
+Actual Marker: that
+Predicted Tokens: ['that', 'because', 'whether', 'as', 'how', 'why', 'since', 'if', 'when', 'and', 'where', 'while', 'but', 'for', 'even']
+Correct: Yes
+
+Original Sentence: AI developers argue that this is the only way to deliver valuable applications.
+Masked Sentence: AI developers argue [MASK] this is [MASK] only way to deliver valuable applications.
+Actual Marker: the
+Predicted Tokens: ['the', 'their', 'our', 'an', 'its', 'his', 'one', 'not', 'your', 'her', 'my', 'no', 'any', 'this', 'that', 'another', 'likely', 'now']
+Correct: Yes
+
+Original Sentence: The amount of machine learning research (measured by total publications) increased by 50% in the years 2015–2019.
+Masked Sentence: The amount of machine learning research (measured by total publications) increased [MASK] 50% [MASK] the years 2015–2019.
+Actual Marker: by
+Predicted Tokens: ['by', 'to', 'about', 'almost', 'over', 'nearly', 'approximately', 'around', 'from', 'another', 'at', 'in', 'above', 'up', 'roughly', 'of', 'below']
+Correct: Yes
+
+Original Sentence: The amount of machine learning research (measured by total publications) increased by 50% in the years 2015–2019.
+Masked Sentence: The amount of machine learning research (measured by total publications) increased [MASK] 50% [MASK] the years 2015–2019.
+Actual Marker: in
+Predicted Tokens: ['between', 'in', 'over', 'during', 'for', 'from', 'through', 'by', 'to', 'within', 'after', 'throughout', 'around', 'since', 'across', 'towards', 'on', 'with', 'until', 'at']
+Correct: Yes
+
+Original Sentence: In a 2023 Fox News poll, 35% of Americans thought it "very important", and an additional 41% thought it "somewhat important", for the federal government to regulate AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Masked Sentence: In a 2023 Fox News poll, 35% of [MASK] thought it "very important", and [MASK] additional 41% thought it "somewhat important", for [MASK] federal government to [MASK] AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Actual Marker: Americans
+Predicted Tokens: ['americans', 'respondents', 'people', 'viewers', 'voters', 'participants', 'subjects', 'listeners', 'canadians', 'citizens', 'adults', 'users', 'australians', 'readers', 'consumers', 'us', 'residents', 'democrats', 'them', 'republicans']
+Correct: No
+
+Original Sentence: In a 2023 Fox News poll, 35% of Americans thought it "very important", and an additional 41% thought it "somewhat important", for the federal government to regulate AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Masked Sentence: In a 2023 Fox News poll, 35% of [MASK] thought it "very important", and [MASK] additional 41% thought it "somewhat important", for [MASK] federal government to [MASK] AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Actual Marker: an
+Predicted Tokens: ['an', 'the', 'some', 'one', 'another', 'this', 'that', 'and', 'then', 'with', 'any', 'in', 'its', 'no', 'their', 'for', 'as']
+Correct: Yes
+
+Original Sentence: In a 2023 Fox News poll, 35% of Americans thought it "very important", and an additional 41% thought it "somewhat important", for the federal government to regulate AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Masked Sentence: In a 2023 Fox News poll, 35% of [MASK] thought it "very important", and [MASK] additional 41% thought it "somewhat important", for [MASK] federal government to [MASK] AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Actual Marker: the
+Predicted Tokens: ['the', 'allowing', 'any', 'their', 'its', 'our', 'an', 'this', 'every', 'another', 'his', 'us', 'using', 'your', 'that', 'no', 'requiring', 'one', 'enough']
+Correct: Yes
+
+Original Sentence: In a 2023 Fox News poll, 35% of Americans thought it "very important", and an additional 41% thought it "somewhat important", for the federal government to regulate AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Masked Sentence: In a 2023 Fox News poll, 35% of [MASK] thought it "very important", and [MASK] additional 41% thought it "somewhat important", for [MASK] federal government to [MASK] AI, versus 13% responding "not very important" and 8% responding "not at all important".
+Actual Marker: regulate
+Predicted Tokens: ['implement', 'develop', 'eliminate', 'support', 'use', 'have', 'ban', 'stop', 'adopt', 'remove', 'defeat', 'embrace', 'end', 'address', 'introduce', 'fund', 'fight', 'prevent', 'promote', 'combat']
+Correct: No
+
+Original Sentence: The increasing realism and ease-of-use of AI-based text-to-image generators such as Midjourney, DALL-E, and Stable Diffusion sparked a trend of viral AI-generated photos.
+Masked Sentence: The increasing realism and ease-of-use of AI-based text-to-image generators such as Midjourney, DALL-E, [MASK] Stable Diffusion sparked a trend [MASK] viral AI-generated photos.
+Actual Marker: and
+Predicted Tokens: ['and', 'or', 'with', 'for', 'their', 'the', 'whose', 'in', 'to', 'which', 'of', 'allowing', 'including', 'its', 'plus', 'more', 'then']
+Correct: Yes
+
+Original Sentence: The increasing realism and ease-of-use of AI-based text-to-image generators such as Midjourney, DALL-E, and Stable Diffusion sparked a trend of viral AI-generated photos.
+Masked Sentence: The increasing realism and ease-of-use of AI-based text-to-image generators such as Midjourney, DALL-E, [MASK] Stable Diffusion sparked a trend [MASK] viral AI-generated photos.
+Actual Marker: of
+Predicted Tokens: ['towards', 'of', 'toward', 'for', 'in', 'to', 'against', 'on', 'with', 'around', 'among', 'into', 'regarding', 'over', 'about', 'through', 'surrounding', 'from', 'within', 'involving']
+Correct: Yes
+
+Original Sentence: History of AI
+Other sources
+Further reading
+External links
+
+"Artificial Intelligence".
+Masked Sentence: History [MASK] AI Other sources Further reading [MASK] links "Artificial Intelligence".
+Actual Marker: of
+Predicted Tokens: ['of', 'and', 'on', 'in', 'for', 'about', 'from', 'the', 'or', 'to', 'with', 'beyond', 'by', 'world']
+Correct: Yes
+
+Original Sentence: History of AI
+Other sources
+Further reading
+External links
+
+"Artificial Intelligence".
+Masked Sentence: History [MASK] AI Other sources Further reading [MASK] links "Artificial Intelligence".
+Actual Marker: External
+Predicted Tokens: ['the', 'external', 'wikipedia', 'and', 'more', 'other', 'web', 'these', 'further', 'by', 'or', 'for', 'of', 'this', 'website', 'media', 'from']
+Correct: No
+
+Original Sentence: Advanced AI can make authoritarian centralized decision making more competitive than liberal and decentralized systems such as markets.
+Masked Sentence: Advanced AI can make authoritarian centralized decision [MASK] [MASK] competitive than [MASK] and decentralized systems such as markets.
+Actual Marker: making
+Predicted Tokens: ['making', 'makers', 'systems', 'processes', 'structures', 'maker', 'sets', 'models', 'makes', 'regimes', 'mechanisms', 'made', 'system', 'boards', 'process', 'decisions', 'methods']
+Correct: Yes
+
+Original Sentence: Advanced AI can make authoritarian centralized decision making more competitive than liberal and decentralized systems such as markets.
+Masked Sentence: Advanced AI can make authoritarian centralized decision [MASK] [MASK] competitive than [MASK] and decentralized systems such as markets.
+Actual Marker: more
+Predicted Tokens: ['more', 'less', 'better', 'rather', 'highly', 'relatively', 'easier', 'increasingly', 'faster', 'greater', 'differently', 'harder', 'much', 'higher', 'very', 'stronger', 'lower', 'most']
+Correct: Yes
+
+Original Sentence: Advanced AI can make authoritarian centralized decision making more competitive than liberal and decentralized systems such as markets.
+Masked Sentence: Advanced AI can make authoritarian centralized decision [MASK] [MASK] competitive than [MASK] and decentralized systems such as markets.
+Actual Marker: liberal
+Predicted Tokens: ['traditional', 'centralized', 'hierarchical', 'authoritarian', 'conventional', 'static', 'democratic', 'rigid', 'complex', 'open', 'modern', 'fixed', 'efficient', 'structured', 'direct', 'simple', 'competitive', 'global', 'free', 'normal']
+Correct: No
+
+Original Sentence: ISBN 978-8-8947-8760-3.
+Masked Sentence: [MASK] 978-8-8947-8760-3.
+Actual Marker: ISBN
+Predicted Tokens: ['isbn', 'retrieved', 'oclc', 'and', 'issn', 'with', 'of', 'hardcover', 'number']
+Correct: No
+
+Original Sentence: There are various conflicting definitions and mathematical models of fairness.
+Masked Sentence: There [MASK] various conflicting definitions and [MASK] models of fairness.
+Actual Marker: are
+Predicted Tokens: ['are', 'exist', 'were', 'is', 'exists', 'remain', 'follow', 'vary', 'appear', 'include', 'be', 'aren', 'have', 'being', 'apply', 'lie', 'differ', 'present', 'come', 'existed']
+Correct: Yes
+
+Original Sentence: There are various conflicting definitions and mathematical models of fairness.
+Masked Sentence: There [MASK] various conflicting definitions and [MASK] models of fairness.
+Actual Marker: mathematical
+Predicted Tokens: ['theoretical', 'different', 'alternative', 'competing', 'differing', 'possible', 'varying', 'conceptual', 'formal', 'general', 'other', 'various', 'conflicting', 'underlying', 'economic', 'proposed', 'common', 'basic', 'standard', 'specific']
+Correct: No
+
+Original Sentence: Deep learning has profoundly improved the performance of programs in many important subfields of artificial intelligence, including computer vision, speech recognition, natural language processing, image classification, and others.
+Masked Sentence: Deep learning [MASK] profoundly [MASK] the performance of programs [MASK] many important subfields of artificial intelligence, including computer vision, speech recognition, natural [MASK] processing, image classification, [MASK] others.
+Actual Marker: has
+Predicted Tokens: ['has', 'can', 'also', 'may', 'is', 'will', 'helps', 'does', 'often', 'studies', 'could', 'features', 'experiences', 'involves', 'systems', 'theory', 'research', 'approaches', 'very', 'must']
+Correct: Yes
+
+Original Sentence: Deep learning has profoundly improved the performance of programs in many important subfields of artificial intelligence, including computer vision, speech recognition, natural language processing, image classification, and others.
+Masked Sentence: Deep learning [MASK] profoundly [MASK] the performance of programs [MASK] many important subfields of artificial intelligence, including computer vision, speech recognition, natural [MASK] processing, image classification, [MASK] others.
+Actual Marker: improved
+Predicted Tokens: ['affect', 'influenced', 'influences', 'influence', 'affected', 'affects', 'impact', 'impacted', 'affecting', 'impacts', 'enhance', 'influencing', 'improve', 'shaped', 'enhanced', 'shape', 'informs', 'in', 'improves', 'altered']
+Correct: No
+
+Original Sentence: Deep learning has profoundly improved the performance of programs in many important subfields of artificial intelligence, including computer vision, speech recognition, natural language processing, image classification, and others.
+Masked Sentence: Deep learning [MASK] profoundly [MASK] the performance of programs [MASK] many important subfields of artificial intelligence, including computer vision, speech recognition, natural [MASK] processing, image classification, [MASK] others.
+Actual Marker: in
+Predicted Tokens: ['in', 'across', 'from', 'within', 'using', 'of', 'involving', 'for', 'on', 'with', 'and', 'covering', 'supporting', 'over', 'under', 'employing', 'including', 'serving', 'representing', 'at']
+Correct: Yes
+
+Original Sentence: Deep learning has profoundly improved the performance of programs in many important subfields of artificial intelligence, including computer vision, speech recognition, natural language processing, image classification, and others.
+Masked Sentence: Deep learning [MASK] profoundly [MASK] the performance of programs [MASK] many important subfields of artificial intelligence, including computer vision, speech recognition, natural [MASK] processing, image classification, [MASK] others.
+Actual Marker: language
+Predicted Tokens: ['language', 'image', 'languages', 'auditory', 'signal', 'number', 'intelligence', 'speech', 'information', 'selection', 'numbers', 'sound', 'translation', 'object', 'neural', 'history', 'linguistic', 'vision', 'sounds', 'color']
+Correct: Yes
+
+Original Sentence: Deep learning has profoundly improved the performance of programs in many important subfields of artificial intelligence, including computer vision, speech recognition, natural language processing, image classification, and others.
+Masked Sentence: Deep learning [MASK] profoundly [MASK] the performance of programs [MASK] many important subfields of artificial intelligence, including computer vision, speech recognition, natural [MASK] processing, image classification, [MASK] others.
+Actual Marker: and
+Predicted Tokens: ['and', 'among', 'amongst', 'many', 'or', 'numerous', 'various', 'several', 'plus', 'all', 'besides', 'but', 'with', 'countless', 'etc', 'including', 'while', 'as', 'alongside']
+Correct: Yes
+
+Original Sentence: Prodigious power consumption by AI is responsible for the growth of fossil fuels use, and might delay closings of obsolete, carbon-emitting coal energy facilities.
+Masked Sentence: [MASK] power consumption by AI is [MASK] for the growth of fossil fuels use, and might delay closings of obsolete, carbon-emitting coal [MASK] facilities.
+Actual Marker: Prodigious
+Predicted Tokens: ['increased', 'reducing', 'increasing', 'reduced', 'low', 'high', 'future', 'excessive', 'the', 'higher', 'rising', 'decreased', 'lower', 'excess', 'decreasing', 'additional', 'declining', 'less', 'lowering', 'avoiding']
+Correct: No
+
+Original Sentence: Prodigious power consumption by AI is responsible for the growth of fossil fuels use, and might delay closings of obsolete, carbon-emitting coal energy facilities.
+Masked Sentence: [MASK] power consumption by AI is [MASK] for the growth of fossil fuels use, and might delay closings of obsolete, carbon-emitting coal [MASK] facilities.
+Actual Marker: responsible
+Predicted Tokens: ['critical', 'important', 'responsible', 'necessary', 'essential', 'beneficial', 'crucial', 'potential', 'required', 'vital', 'needed', 'likely', 'expected', 'implications', 'insufficient', 'significant', 'useful', 'relevant', 'sufficient', 'detrimental']
+Correct: Yes
+
+Original Sentence: Prodigious power consumption by AI is responsible for the growth of fossil fuels use, and might delay closings of obsolete, carbon-emitting coal energy facilities.
+Masked Sentence: [MASK] power consumption by AI is [MASK] for the growth of fossil fuels use, and might delay closings of obsolete, carbon-emitting coal [MASK] facilities.
+Actual Marker: energy
+Predicted Tokens: ['production', 'mining', 'burning', 'storage', 'generation', 'processing', 'mine', 'fired', 'producing', 'generating', 'manufacturing', 'extraction', 'power', 'burn', 'distribution', 'combustion', 'heating', 'transmission', 'treatment']
+Correct: No
+
+Original Sentence: Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+Masked Sentence: Asimov's laws are [MASK] brought up [MASK] lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar [MASK] Asimov's laws through popular culture, they generally consider the [MASK] useless for [MASK] reasons, one [MASK] which is [MASK] ambiguity.
+Actual Marker: often
+Predicted Tokens: ['often', 'frequently', 'usually', 'sometimes', 'commonly', 'generally', 'typically', 'rarely', 'also', 'not', 'mostly', 'occasionally', 'primarily', 'seldom', 'widely', 'mainly', 'traditionally', 'largely', 'only', 'particularly']
+Correct: Yes
+
+Original Sentence: Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+Masked Sentence: Asimov's laws are [MASK] brought up [MASK] lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar [MASK] Asimov's laws through popular culture, they generally consider the [MASK] useless for [MASK] reasons, one [MASK] which is [MASK] ambiguity.
+Actual Marker: during
+Predicted Tokens: ['in', 'within', 'as', 'by', 'before', 'for', 'during', 'with', 'into', 'among', 'alongside', 'outside', 'to', 'through', 'beyond', 'around', 'on', 'above', 'from', 'against']
+Correct: Yes
+
+Original Sentence: Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+Masked Sentence: Asimov's laws are [MASK] brought up [MASK] lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar [MASK] Asimov's laws through popular culture, they generally consider the [MASK] useless for [MASK] reasons, one [MASK] which is [MASK] ambiguity.
+Actual Marker: with
+Predicted Tokens: ['with', 'about', 'to', 'in', 'by', 'of', 'through', 'from', 'using', 'for', 'reading', 'at', 'and', 'regarding', 'via']
+Correct: Yes
+
+Original Sentence: Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+Masked Sentence: Asimov's laws are [MASK] brought up [MASK] lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar [MASK] Asimov's laws through popular culture, they generally consider the [MASK] useless for [MASK] reasons, one [MASK] which is [MASK] ambiguity.
+Actual Marker: laws
+Predicted Tokens: ['laws', 'law', 'rules', 'theory', 'principles', 'ideas', 'rule', 'concepts', 'equations', 'work', 'books', 'definitions', 'principle', 'system', 'theories', 'language', 'statements', 'book', 'code', 'terms']
+Correct: Yes
+
+Original Sentence: Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+Masked Sentence: Asimov's laws are [MASK] brought up [MASK] lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar [MASK] Asimov's laws through popular culture, they generally consider the [MASK] useless for [MASK] reasons, one [MASK] which is [MASK] ambiguity.
+Actual Marker: many
+Predicted Tokens: ['several', 'various', 'many', 'two', 'multiple', 'numerous', 'three', 'different', 'some', 'obvious', 'other', 'certain', 'technical', 'practical', 'four', 'few', 'historical', 'political', 'philosophical', 'five']
+Correct: Yes
+
+Original Sentence: Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+Masked Sentence: Asimov's laws are [MASK] brought up [MASK] lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar [MASK] Asimov's laws through popular culture, they generally consider the [MASK] useless for [MASK] reasons, one [MASK] which is [MASK] ambiguity.
+Actual Marker: of
+Predicted Tokens: ['of', 'among', 'reason', 'to', 'for', 'amongst', 'from', 'in', 'one', 'factor', 'on', 'being', 'about', 'behind', 'possible', 'underlying', 'with', 'thing', 'matter', 'besides']
+Correct: Yes
+
+Original Sentence: Asimov's laws are often brought up during lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar with Asimov's laws through popular culture, they generally consider the laws useless for many reasons, one of which is their ambiguity.
+Masked Sentence: Asimov's laws are [MASK] brought up [MASK] lay discussions of machine ethics; while almost all artificial intelligence researchers are familiar [MASK] Asimov's laws through popular culture, they generally consider the [MASK] useless for [MASK] reasons, one [MASK] which is [MASK] ambiguity.
+Actual Marker: their
+Predicted Tokens: ['their', 'its', 'the', 'an', 'perceived', 'logical', 'philosophical', 'linguistic', 'gender', 'for', 'cultural', 'by', 'his', 'language', 'through', 'political', 'semantic', 'scientific', 'internal', 'moral']
+Correct: Yes
+
+Original Sentence: However, this tends to give naïve users an unrealistic conception of the intelligence of existing computer agents.
+Masked Sentence: However, this [MASK] [MASK] give naïve users an unrealistic conception of the intelligence of existing [MASK] agents.
+Actual Marker: tends
+Predicted Tokens: ['may', 'can', 'would', 'does', 'could', 'will', 'might', 'cannot', 'should', 'must', 'has', 'doesn', 'did', 'helps', 'method', 'theory', 'results', 'tends', 'assumption', 'technique']
+Correct: Yes
+
+Original Sentence: However, this tends to give naïve users an unrealistic conception of the intelligence of existing computer agents.
+Masked Sentence: However, this [MASK] [MASK] give naïve users an unrealistic conception of the intelligence of existing [MASK] agents.
+Actual Marker: to
+Predicted Tokens: ['may', 'can', 'does', 'would', 'could', 'will', 'might', 'cannot', 'did', 'must', 'should', 'also', 'helps', 'do', 'doesn', 'often', 'to', 'still', 'has', 'helped']
+Correct: Yes
+
+Original Sentence: However, this tends to give naïve users an unrealistic conception of the intelligence of existing computer agents.
+Masked Sentence: However, this [MASK] [MASK] give naïve users an unrealistic conception of the intelligence of existing [MASK] agents.
+Actual Marker: computer
+Predicted Tokens: ['human', 'intelligence', 'intelligent', 'social', 'artificial', 'user', 'autonomous', 'cognitive', 'government', 'network', 'software', 'psychological', 'system', 'research', 'information', 'individual', 'fbi', 'biological', 'public', 'knowledge']
+Correct: No
+
+Original Sentence: Many of these algorithms are insufficient for solving large reasoning problems because they experience a "combinatorial explosion": They become exponentially slower as the problems grow.
+Masked Sentence: Many of these algorithms [MASK] insufficient for solving large reasoning problems [MASK] they [MASK] a "combinatorial explosion": They become exponentially slower [MASK] the problems grow.
+Actual Marker: are
+Predicted Tokens: ['are', 'prove', 'seem', 'become', 'were', 'proved', 'appear', 'remain', 'is', 'feel', 'look', 'have', 'became', 'being', 'get', 'proves', 'be', 'find', 'proven']
+Correct: Yes
+
+Original Sentence: Many of these algorithms are insufficient for solving large reasoning problems because they experience a "combinatorial explosion": They become exponentially slower as the problems grow.
+Masked Sentence: Many of these algorithms [MASK] insufficient for solving large reasoning problems [MASK] they [MASK] a "combinatorial explosion": They become exponentially slower [MASK] the problems grow.
+Actual Marker: because
+Predicted Tokens: ['because', 'and', 'as', 'since', 'but', 'so', 'when', 'or', 'unless', 'if', 'until', 'before', 'where', 'that']
+Correct: Yes
+
+Original Sentence: Many of these algorithms are insufficient for solving large reasoning problems because they experience a "combinatorial explosion": They become exponentially slower as the problems grow.
+Masked Sentence: Many of these algorithms [MASK] insufficient for solving large reasoning problems [MASK] they [MASK] a "combinatorial explosion": They become exponentially slower [MASK] the problems grow.
+Actual Marker: experience
+Predicted Tokens: ['cause', 'have', 'are', 'undergo', 'create', 'produce', 'become', 'generate', 'induce', 'trigger', 'form', 'represent', 'experience', 'exhibit', 'start', 'suffer', 'enter', 'constitute', 'caused', 'make']
+Correct: Yes
+
+Original Sentence: Many of these algorithms are insufficient for solving large reasoning problems because they experience a "combinatorial explosion": They become exponentially slower as the problems grow.
+Masked Sentence: Many of these algorithms [MASK] insufficient for solving large reasoning problems [MASK] they [MASK] a "combinatorial explosion": They become exponentially slower [MASK] the problems grow.
+Actual Marker: as
+Predicted Tokens: ['as', 'and', 'while', 'when', 'than', 'with', 'but', 'because', 'until', 'after', 'where', 'if', 'in', 'so', 'or']
+Correct: Yes
+
+Original Sentence: In fiction
+Thought-capable artificial beings have appeared as storytelling devices since antiquity, and have been a persistent theme in science fiction.
+Masked Sentence: In fiction Thought-capable artificial beings have appeared as storytelling devices since antiquity, and have [MASK] a [MASK] [MASK] in science fiction.
+Actual Marker: been
+Predicted Tokens: ['become', 'played', 'gained', 'been', 'had', 'made', 'found', 'acquired', 'enjoyed', 'developed', 'taken', 'received', 'remained', 'earned', 'created', 'achieved', 'formed', 'provided', 'won', 'reached']
+Correct: Yes
+
+Original Sentence: In fiction
+Thought-capable artificial beings have appeared as storytelling devices since antiquity, and have been a persistent theme in science fiction.
+Masked Sentence: In fiction Thought-capable artificial beings have appeared as storytelling devices since antiquity, and have [MASK] a [MASK] [MASK] in science fiction.
+Actual Marker: persistent
+Predicted Tokens: ['popular', 'common', 'prominent', 'major', 'significant', 'central', 'recurring', 'frequent', 'regular', 'leading', 'strong', 'key', 'constant', 'ubiquitous', 'permanent', 'universal', 'notable', 'dominant', 'widespread', 'familiar']
+Correct: No
+
+Original Sentence: In fiction
+Thought-capable artificial beings have appeared as storytelling devices since antiquity, and have been a persistent theme in science fiction.
+Masked Sentence: In fiction Thought-capable artificial beings have appeared as storytelling devices since antiquity, and have [MASK] a [MASK] [MASK] in science fiction.
+Actual Marker: theme
+Predicted Tokens: ['element', 'theme', 'presence', 'force', 'character', 'influence', 'role', 'feature', 'part', 'subject', 'concern', 'motif', 'topic', 'interest', 'focus', 'component', 'protagonist', 'basis', 'device', 'hero']
+Correct: Yes
+
+Original Sentence: Multimodal GPT models can process different types of data (modalities) such as images, videos, sound, and text.
+Masked Sentence: [MASK] GPT models can process different types of data (modalities) such as images, videos, sound, and text.
+Actual Marker: Multimodal
+Predicted Tokens: ['different', 'the', 'various', 'many', 'these', 'modern', 'some', 'multiple', 'several', 'individual', 'most', 'traditional', 'other', 'typical', 'standard', 'common', 'single', 'such', 'all']
+Correct: No
+
+Original Sentence: Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems.
+Masked Sentence: Artificial [MASK] (AI), in its broadest sense, is intelligence exhibited by machines, [MASK] computer systems.
+Actual Marker: intelligence
+Predicted Tokens: ['intelligence', 'ai', 'intelligent', 'information', 'cognition', 'ability', 'instinct', 'consciousness', 'evolution', 'life', 'eye', 'appearance', 'ignorance', 'complexity', 'awareness', 'autonomous', 'learning', 'reality', 'understanding']
+Correct: Yes
+
+Original Sentence: Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems.
+Masked Sentence: Artificial [MASK] (AI), in its broadest sense, is intelligence exhibited by machines, [MASK] computer systems.
+Actual Marker: particularly
+Predicted Tokens: ['especially', 'particularly', 'specifically', 'or', 'including', 'not', 'primarily', 'usually', 'often', 'mainly', 'typically', 'and', 'generally', 'mostly', 'principally', 'notably', 'namely', 'called', 'particular', 'traditionally']
+Correct: Yes
+
+Original Sentence: "Aeronautical engineering texts," they wrote, "do not define the goal of their field as making 'machines that fly so exactly like pigeons that they can fool other pigeons.'"
+Masked Sentence: "Aeronautical engineering texts," they wrote, "do not [MASK] the goal of [MASK] field as making 'machines that [MASK] so exactly [MASK] pigeons that they can fool other pigeons.'"
+Actual Marker: define
+Predicted Tokens: ['describe', 'define', 'address', 'see', 'regard', 'identify', 'explain', 'state', 'interpret', 'view', 'express', 'list', 'consider', 'mention', 'treat', 'recognize', 'discuss', 'give', 'specify', 'show']
+Correct: Yes
+
+Original Sentence: "Aeronautical engineering texts," they wrote, "do not define the goal of their field as making 'machines that fly so exactly like pigeons that they can fool other pigeons.'"
+Masked Sentence: "Aeronautical engineering texts," they wrote, "do not [MASK] the goal of [MASK] field as making 'machines that [MASK] so exactly [MASK] pigeons that they can fool other pigeons.'"
+Actual Marker: their
+Predicted Tokens: ['the', 'this', 'their', 'our', 'that', 'each', 'my', 'any', 'his', 'its', 'your', 'aviation', 'one', 'science', 'engineering', 'flight', 'scientific', 'either', 'flying']
+Correct: Yes
+
+Original Sentence: "Aeronautical engineering texts," they wrote, "do not define the goal of their field as making 'machines that fly so exactly like pigeons that they can fool other pigeons.'"
+Masked Sentence: "Aeronautical engineering texts," they wrote, "do not [MASK] the goal of [MASK] field as making 'machines that [MASK] so exactly [MASK] pigeons that they can fool other pigeons.'"
+Actual Marker: fly
+Predicted Tokens: ['are', 'do', 'look', 'behave', 'make', 'fly', 'resemble', 'work', 'perform', 'have', 'sound', 'can', 'fit', 'act', 'play', 'will', 'think', 'move', 'attract', 'produce']
+Correct: Yes
+
+Original Sentence: "Aeronautical engineering texts," they wrote, "do not define the goal of their field as making 'machines that fly so exactly like pigeons that they can fool other pigeons.'"
+Masked Sentence: "Aeronautical engineering texts," they wrote, "do not [MASK] the goal of [MASK] field as making 'machines that [MASK] so exactly [MASK] pigeons that they can fool other pigeons.'"
+Actual Marker: like
+Predicted Tokens: ['like', 'for', 'the', 'as', 'unlike', 'ordinary', 'real', 'resemble', 'to', 'with', 'in', 'similar', 'of', 'resembling', 'different', 'on', 'human', 'fine', 'true', 'than']
+Correct: Yes
+
+Original Sentence: After the U.S. election in 2016, major technology companies took steps to mitigate the problem .
+Masked Sentence: After the U.S. election [MASK] 2016, major technology companies [MASK] steps to mitigate the problem .
+Actual Marker: in
+Predicted Tokens: ['of', 'in', 'year', 'season', 'for', 'from', 'to', 'campaign', 'and', 'on', 'day', 'night', 'during', 'that', 'challenge', 'cycle', 'call']
+Correct: Yes
+
+Original Sentence: After the U.S. election in 2016, major technology companies took steps to mitigate the problem .
+Masked Sentence: After the U.S. election [MASK] 2016, major technology companies [MASK] steps to mitigate the problem .
+Actual Marker: took
+Predicted Tokens: ['took', 'take', 'made', 'taken', 'began', 'undertook', 'adopted', 'launched', 'initiated', 'announced', 'started', 'pursued', 'taking', 'sought', 'implemented', 'developed', 'takes', 'proposed', 'introduced', 'underwent']
+Correct: Yes
+
+Original Sentence: For many specific tasks, other methods were abandoned.
+Masked Sentence: For many specific tasks, other [MASK] were abandoned.
+Actual Marker: methods
+Predicted Tokens: ['tasks', 'methods', 'functions', 'items', 'skills', 'elements', 'techniques', 'features', 'tools', 'options', 'instruments', 'activities', 'systems', 'objects', 'classes', 'resources', 'models', 'programs', 'ideas', 'types']
+Correct: Yes
+
+Original Sentence: Funding and interest vastly increased after 2012 when deep learning outperformed previous AI techniques.
+Masked Sentence: Funding and [MASK] vastly increased after 2012 when [MASK] learning outperformed previous AI techniques.
+Actual Marker: interest
+Predicted Tokens: ['awareness', 'development', 'support', 'research', 'funding', 'innovation', 'resources', 'productivity', 'use', 'expertise', 'training', 'performance', 'effort', 'testing', 'quality', 'growth', 'revenue', 'technology', 'effectiveness', 'work']
+Correct: No
+
+Original Sentence: Funding and interest vastly increased after 2012 when deep learning outperformed previous AI techniques.
+Masked Sentence: Funding and [MASK] vastly increased after 2012 when [MASK] learning outperformed previous AI techniques.
+Actual Marker: deep
+Predicted Tokens: ['machine', 'ai', 'human', 'advanced', 'artificial', 'online', 'virtual', 'the', 'computer', 'collaborative', 'adaptive', 'visual', 'interactive', 'google', 'neural', 'social', 'blind', 'language', 'computational', 'distance']
+Correct: No
+
+Original Sentence: SHAP enables to visualise the contribution of each feature to the output.
+Masked Sentence: SHAP enables to visualise the contribution of each feature [MASK] [MASK] output.
+Actual Marker: to
+Predicted Tokens: ['to', 'in', 'and', 'as', 'or', 'on', 'of', 'into', 'for', 'within', 'towards', 'with', 'during', 'from', 'at', 'against', 'per']
+Correct: Yes
+
+Original Sentence: SHAP enables to visualise the contribution of each feature to the output.
+Masked Sentence: SHAP enables to visualise the contribution of each feature [MASK] [MASK] output.
+Actual Marker: the
+Predicted Tokens: ['and', 'or', 'as', 'to', 'of', 'its', 'in', 'the', 'data', 'for', 'into', 'with', 'called', 'file', 'is', 'per']
+Correct: Yes
+
+Original Sentence: Several approaches aim to address the transparency problem.
+Masked Sentence: Several [MASK] aim to address the transparency problem.
+Actual Marker: approaches
+Predicted Tokens: ['approaches', 'projects', 'initiatives', 'programs', 'measures', 'proposals', 'mechanisms', 'strategies', 'policies', 'solutions', 'studies', 'methods', 'schemes', 'reforms', 'efforts', 'steps', 'implementations', 'countries', 'standards', 'organizations']
+Correct: Yes
+
+Original Sentence: Up to this point, most of AI's funding had gone to projects that used high-level symbols to represent mental objects like plans, goals, beliefs, and known facts.
+Masked Sentence: Up to this point, [MASK] of AI's [MASK] had gone to projects that [MASK] high-level symbols to represent mental objects like plans, goals, beliefs, [MASK] [MASK] facts.
+Actual Marker: most
+Predicted Tokens: ['most', 'much', 'many', 'all', 'some', 'half', 'part', 'parts', 'members', 'thousands', 'hundreds', 'several', 'millions', 'lots', 'majority', 'portions', 'more', 'dozens', 'none', 'elements']
+Correct: Yes
+
+Original Sentence: Up to this point, most of AI's funding had gone to projects that used high-level symbols to represent mental objects like plans, goals, beliefs, and known facts.
+Masked Sentence: Up to this point, [MASK] of AI's [MASK] had gone to projects that [MASK] high-level symbols to represent mental objects like plans, goals, beliefs, [MASK] [MASK] facts.
+Actual Marker: funding
+Predicted Tokens: ['funding', 'contributions', 'users', 'work', 'employees', 'founders', 'research', 'resources', 'funds', 'researchers', 'programmers', 'developers', 'customers', 'students', 'efforts', 'clients', 'money', 'members', 'focus', 'support']
+Correct: Yes
+
+Original Sentence: Up to this point, most of AI's funding had gone to projects that used high-level symbols to represent mental objects like plans, goals, beliefs, and known facts.
+Masked Sentence: Up to this point, [MASK] of AI's [MASK] had gone to projects that [MASK] high-level symbols to represent mental objects like plans, goals, beliefs, [MASK] [MASK] facts.
+Actual Marker: used
+Predicted Tokens: ['used', 'use', 'employed', 'utilized', 'developed', 'created', 'required', 'uses', 'incorporated', 'needed', 'included', 'added', 'applied', 'adopted', 'had', 'adapted', 'employ', 'introduced', 'implemented', 'utilize']
+Correct: Yes
+
+Original Sentence: Up to this point, most of AI's funding had gone to projects that used high-level symbols to represent mental objects like plans, goals, beliefs, and known facts.
+Masked Sentence: Up to this point, [MASK] of AI's [MASK] had gone to projects that [MASK] high-level symbols to represent mental objects like plans, goals, beliefs, [MASK] [MASK] facts.
+Actual Marker: and
+Predicted Tokens: ['and', 'or', 'etc', 'even', 'information', 'logical', 'other', 'beliefs', 'but', 'moral', 'social', 'emotions', 'data', 'emotional', 'religious', 'political', 'events']
+Correct: Yes
+
+Original Sentence: Up to this point, most of AI's funding had gone to projects that used high-level symbols to represent mental objects like plans, goals, beliefs, and known facts.
+Masked Sentence: Up to this point, [MASK] of AI's [MASK] had gone to projects that [MASK] high-level symbols to represent mental objects like plans, goals, beliefs, [MASK] [MASK] facts.
+Actual Marker: known
+Predicted Tokens: ['and', 'or', 'other', 'even', 'etc', 'scientific', 'real', 'physical', 'logical', 'basic', 'general', 'everyday', 'natural', 'simple', 'common', 'abstract', 'specific', 'mental', 'social', 'just']
+Correct: No
+
+Original Sentence: champions, Brad Rutter and Ken Jennings, by a significant margin.
+Masked Sentence: champions, Brad Rutter and [MASK] Jennings, by a significant margin.
+Actual Marker: Ken
+Predicted Tokens: ['greg', 'bill', 'peter', 'jim', 'paul', 'chris', 'brad', 'dick', 'david', 'tim', 'john', 'scott', 'matt', 'bryan', 'ken', 'craig', 'sean', 'kevin', 'pat', 'rick']
+Correct: No
+
+Original Sentence: If a biased algorithm is used to make decisions that can seriously harm people (as it can in medicine, finance, recruitment, housing or policing) then the algorithm may cause discrimination.
+Masked Sentence: [MASK] a biased algorithm is used to make decisions that can seriously harm people (as it [MASK] [MASK] medicine, finance, recruitment, housing or policing) then the algorithm may cause discrimination.
+Actual Marker: If
+Predicted Tokens: ['if', 'when', 'where', 'once', 'as', 'whenever', 'since', 'because', 'unless', 'while', 'suppose', 'although', 'whether', 'assuming', 'anytime', 'after', 'so', 'provided', 'but', 'however']
+Correct: No
+
+Original Sentence: If a biased algorithm is used to make decisions that can seriously harm people (as it can in medicine, finance, recruitment, housing or policing) then the algorithm may cause discrimination.
+Masked Sentence: [MASK] a biased algorithm is used to make decisions that can seriously harm people (as it [MASK] [MASK] medicine, finance, recruitment, housing or policing) then the algorithm may cause discrimination.
+Actual Marker: can
+Predicted Tokens: ['does', 'can', 'may', 'is', 'could', 'might', 'has', 'would', 'will', 'should', 'happens', 'do', 'affects', 'did', 'cannot', 'must', 'means', 'occurs', 'involves', 'matters']
+Correct: Yes
+
+Original Sentence: If a biased algorithm is used to make decisions that can seriously harm people (as it can in medicine, finance, recruitment, housing or policing) then the algorithm may cause discrimination.
+Masked Sentence: [MASK] a biased algorithm is used to make decisions that can seriously harm people (as it [MASK] [MASK] medicine, finance, recruitment, housing or policing) then the algorithm may cause discrimination.
+Actual Marker: in
+Predicted Tokens: ['affects', 'in', 'is', 'includes', 'does', 'affect', 'are', 'include', 'involves', 'can', 'regards', 'concerns', 'affecting', 'with', 'to', 'means', 'do', 'uses', 'covers']
+Correct: Yes
+
+Original Sentence: This approach is mostly sub-symbolic, soft and narrow.
+Masked Sentence: This approach is [MASK] sub-symbolic, soft and narrow.
+Actual Marker: mostly
+Predicted Tokens: ['often', 'considered', 'called', 'also', 'not', 'very', 'usually', 'essentially', 'typically', 'sometimes', 'generally', 'highly', 'largely', 'more', 'mostly', 'termed', 'somewhat', 'strictly', 'primarily']
+Correct: Yes
+
+Original Sentence: Deep learning's success led to an enormous increase in interest and funding in AI.
+Masked Sentence: Deep learning's success led [MASK] an enormous increase in interest [MASK] funding in AI.
+Actual Marker: to
+Predicted Tokens: ['to', 'into', 'towards', 'in', 'toward', 'with', 'by', 'through', 'from', 'for', 'and', 'the', 'onto', 'as', 'of', 'on', 'also']
+Correct: Yes
+
+Original Sentence: Deep learning's success led to an enormous increase in interest and funding in AI.
+Masked Sentence: Deep learning's success led [MASK] an enormous increase in interest [MASK] funding in AI.
+Actual Marker: and
+Predicted Tokens: ['and', 'in', 'or', 'for', 'of', 'from', 'to', 'rate', 'level', 'on', 'based', 'through', 'with', 'but', 'into']
+Correct: Yes
+
+Original Sentence: Having asthma is actually a severe risk factor, but since the patients having asthma would usually get much more medical care, they were relatively unlikely to die according to the training data.
+Masked Sentence: Having asthma is actually a severe risk factor, [MASK] since [MASK] patients having [MASK] would [MASK] get much more medical care, they were [MASK] unlikely to die according to the training data.
+Actual Marker: but
+Predicted Tokens: ['and', 'but', 'as', 'because', 'however', 'especially', 'though', 'although', 'so', 'since', 'particularly', 'for', 'while', 'also', 'therefore', 'yet', 'that', 'which', 'thus', 'even']
+Correct: Yes
+
+Original Sentence: Having asthma is actually a severe risk factor, but since the patients having asthma would usually get much more medical care, they were relatively unlikely to die according to the training data.
+Masked Sentence: Having asthma is actually a severe risk factor, [MASK] since [MASK] patients having [MASK] would [MASK] get much more medical care, they were [MASK] unlikely to die according to the training data.
+Actual Marker: the
+Predicted Tokens: ['the', 'those', 'most', 'some', 'many', 'these', 'older', 'other', 'such', 'elderly', 'healthy', 'any', 'all', 'poor', 'young', 'asthma', 'more', 'individual', 'affected']
+Correct: Yes
+
+Original Sentence: Having asthma is actually a severe risk factor, but since the patients having asthma would usually get much more medical care, they were relatively unlikely to die according to the training data.
+Masked Sentence: Having asthma is actually a severe risk factor, [MASK] since [MASK] patients having [MASK] would [MASK] get much more medical care, they were [MASK] unlikely to die according to the training data.
+Actual Marker: asthma
+Predicted Tokens: ['asthma', 'pneumonia', 'it', 'diabetes', 'tuberculosis', 'cancer', 'them', 'symptoms', 'lungs', 'cough', 'flu', 'leukemia', 'malaria', 'influenza', 'inhaled', 'illnesses', 'fever', 'schizophrenia', 'coughing', 'arthritis']
+Correct: Yes
+
+Original Sentence: Having asthma is actually a severe risk factor, but since the patients having asthma would usually get much more medical care, they were relatively unlikely to die according to the training data.
+Masked Sentence: Having asthma is actually a severe risk factor, [MASK] since [MASK] patients having [MASK] would [MASK] get much more medical care, they were [MASK] unlikely to die according to the training data.
+Actual Marker: usually
+Predicted Tokens: ['not', 'likely', 'normally', 'otherwise', 'probably', 'typically', 'usually', 'also', 'generally', 'often', 'then', 'eventually', 'still', 'actually', 'now', 'never', 'surely', 'potentially', 'therefore', 'already']
+Correct: Yes
+
+Original Sentence: Having asthma is actually a severe risk factor, but since the patients having asthma would usually get much more medical care, they were relatively unlikely to die according to the training data.
+Masked Sentence: Having asthma is actually a severe risk factor, [MASK] since [MASK] patients having [MASK] would [MASK] get much more medical care, they were [MASK] unlikely to die according to the training data.
+Actual Marker: relatively
+Predicted Tokens: ['very', 'most', 'highly', 'more', 'extremely', 'also', 'generally', 'less', 'equally', 'likely', 'therefore', 'relatively', 'considered', 'reasonably', 'not', 'quite', 'particularly', 'probably', 'especially', 'still']
+Correct: Yes
+
+Original Sentence: Open-weight models are useful for research and innovation but can also be misused.
+Masked Sentence: Open-weight models are useful for research and innovation [MASK] can also [MASK] misused.
+Actual Marker: but
+Predicted Tokens: ['but', 'and', 'yet', 'though', 'which', 'although', 'that', 'however', 'or', 'while', 'they', 'if', 'who', 'as', 'because', 'where']
+Correct: Yes
+
+Original Sentence: Open-weight models are useful for research and innovation but can also be misused.
+Masked Sentence: Open-weight models are useful for research and innovation [MASK] can also [MASK] misused.
+Actual Marker: be
+Predicted Tokens: ['be', 'been', 'easily', 'become', 'get', 'being', 'prove', 'if', 'feel', 'are', 'when', 'often', 'sometimes', 'have', 'appear', 'seem', 'heavily', 'where', 'were', 'potentially']
+Correct: Yes
+
+Original Sentence: Yann LeCun "scoffs at his peers' dystopian scenarios of supercharged misinformation and even, eventually, human extinction."
+Masked Sentence: Yann LeCun "scoffs at his peers' [MASK] scenarios of supercharged [MASK] and even, eventually, human extinction."
+Actual Marker: dystopian
+Predicted Tokens: ['bleak', 'ridiculous', 'extreme', 'endless', 'optimistic', 'realistic', 'hypothetical', 'absurd', 'worst', 'naive', 'terrifying', 'bizarre', 'imagined', 'sweeping', 'exaggerated', 'horrific', 'frightening', 'grim', 'vivid', 'paranoid']
+Correct: No
+
+Original Sentence: Yann LeCun "scoffs at his peers' dystopian scenarios of supercharged misinformation and even, eventually, human extinction."
+Masked Sentence: Yann LeCun "scoffs at his peers' [MASK] scenarios of supercharged [MASK] and even, eventually, human extinction."
+Actual Marker: misinformation
+Predicted Tokens: ['radiation', 'energy', 'technology', 'animals', 'extinction', 'pollution', 'nature', 'evolution', 'growth', 'species', 'power', 'creatures', 'development', 'life', 'humans', 'dinosaurs', 'combustion', 'wildlife', 'water']
+Correct: No
+
+Original Sentence: It must choose an action by making a probabilistic guess and then reassess the situation to see if the action worked.
+Masked Sentence: It must [MASK] an action [MASK] [MASK] a probabilistic guess and then reassess the situation to see [MASK] the action worked.
+Actual Marker: choose
+Predicted Tokens: ['take', 'consider', 'make', 'be', 'find', 'evaluate', 'assume', 'perform', 'use', 'identify', 'have', 'analyze', 'solve', 'calculate', 'see', 'generate', 'suppose', 'detect', 'follow', 'remember']
+Correct: No
+
+Original Sentence: It must choose an action by making a probabilistic guess and then reassess the situation to see if the action worked.
+Masked Sentence: It must [MASK] an action [MASK] [MASK] a probabilistic guess and then reassess the situation to see [MASK] the action worked.
+Actual Marker: by
+Predicted Tokens: ['that', 'which', 'and', 'to', 'or', 'first', 'by', 'using', 'with', 'based', 'then', 'if', 'such', 'from', 'given', 'called', 'of', 'taken']
+Correct: Yes
+
+Original Sentence: It must choose an action by making a probabilistic guess and then reassess the situation to see if the action worked.
+Masked Sentence: It must [MASK] an action [MASK] [MASK] a probabilistic guess and then reassess the situation to see [MASK] the action worked.
+Actual Marker: making
+Predicted Tokens: ['and', 'with', 'from', 'to', 'or', 'by', 'using', 'in', 'on', 'make', 'as', 'take', 'for', 'into', 'is', 'against', 'at', 'given', 'after']
+Correct: No
+
+Original Sentence: It must choose an action by making a probabilistic guess and then reassess the situation to see if the action worked.
+Masked Sentence: It must [MASK] an action [MASK] [MASK] a probabilistic guess and then reassess the situation to see [MASK] the action worked.
+Actual Marker: if
+Predicted Tokens: ['if', 'how', 'whether', 'that', 'why', 'where', 'when', 'what', 'which', 'as', 'who', 'it', 'though', 'because', 'after', 'and', 'ways', 'sure', 'while']
+Correct: Yes
+
+Original Sentence: GPT
+Generative pre-trained transformers (GPT) are large language models (LLMs) that generate text based on the semantic relationships between words in sentences.
+Masked Sentence: GPT Generative pre-trained transformers (GPT) are large language [MASK] (LLMs) [MASK] generate text based on the semantic [MASK] between words in sentences.
+Actual Marker: models
+Predicted Tokens: ['systems', 'models', 'modules', 'processing', 'processors', 'machines', 'engines', 'learners', 'sets', 'programs', 'translators', 'algorithms', 'synthesizers', 'tasks', 'robots', 'clusters', 'generators', 'networks', 'agents', 'servers']
+Correct: Yes
+
+Original Sentence: GPT
+Generative pre-trained transformers (GPT) are large language models (LLMs) that generate text based on the semantic relationships between words in sentences.
+Masked Sentence: GPT Generative pre-trained transformers (GPT) are large language [MASK] (LLMs) [MASK] generate text based on the semantic [MASK] between words in sentences.
+Actual Marker: that
+Predicted Tokens: ['that', 'which', 'to', 'who', 'and', 'can', 'they', 'where', 'but', 'will', 'for', 'or', 'those', 'typically', 'may', 'in']
+Correct: Yes
+
+Original Sentence: GPT
+Generative pre-trained transformers (GPT) are large language models (LLMs) that generate text based on the semantic relationships between words in sentences.
+Masked Sentence: GPT Generative pre-trained transformers (GPT) are large language [MASK] (LLMs) [MASK] generate text based on the semantic [MASK] between words in sentences.
+Actual Marker: relationships
+Predicted Tokens: ['relationships', 'relation', 'relations', 'similarity', 'relationship', 'differences', 'connections', 'difference', 'similarities', 'correspondence', 'distance', 'interactions', 'association', 'distinction', 'transitions', 'connection', 'links', 'agreement', 'space', 'associations']
+Correct: Yes
+
+Original Sentence: The methodology of speculating about future employment levels has been criticised as lacking evidential foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed to redundancies.
+Masked Sentence: The methodology of speculating [MASK] [MASK] employment levels has [MASK] [MASK] as lacking [MASK] foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed [MASK] redundancies.
+Actual Marker: about
+Predicted Tokens: ['on', 'about', 'at', 'for', 'of', 'over', 'against', 'in', 'between', 'the', 'upon', 'to', 'regarding', 'from', 'around', 'that', 'higher', 'how', 'with', 'towards']
+Correct: Yes
+
+Original Sentence: The methodology of speculating about future employment levels has been criticised as lacking evidential foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed to redundancies.
+Masked Sentence: The methodology of speculating [MASK] [MASK] employment levels has [MASK] [MASK] as lacking [MASK] foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed [MASK] redundancies.
+Actual Marker: future
+Predicted Tokens: ['higher', 'current', 'real', 'the', 'future', 'actual', 'individual', 'low', 'lower', 'high', 'relative', 'average', 'specific', 'global', 'national', 'past', 'increasing', 'rising', 'optimal', 'fixed']
+Correct: Yes
+
+Original Sentence: The methodology of speculating about future employment levels has been criticised as lacking evidential foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed to redundancies.
+Masked Sentence: The methodology of speculating [MASK] [MASK] employment levels has [MASK] [MASK] as lacking [MASK] foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed [MASK] redundancies.
+Actual Marker: been
+Predicted Tokens: ['been', 'critics', 'some', 'criticized', 'criticised', 'emerged', 'become', 'criticism', 'it', 'was', 'described', 'him', 'seen', 'many', 'characterised', 'them', 'received', 'shown', 'appeared', 'such']
+Correct: Yes
+
+Original Sentence: The methodology of speculating about future employment levels has been criticised as lacking evidential foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed to redundancies.
+Masked Sentence: The methodology of speculating [MASK] [MASK] employment levels has [MASK] [MASK] as lacking [MASK] foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed [MASK] redundancies.
+Actual Marker: criticised
+Predicted Tokens: ['criticized', 'criticised', 'critics', 'criticism', 'described', 'rejected', 'denounced', 'characterised', 'criticisms', 'cited', 'characterized', 'regarded', 'it', 'reported', 'seen', 'critique', 'proponents', 'dismissed', 'identified', 'noted']
+Correct: Yes
+
+Original Sentence: The methodology of speculating about future employment levels has been criticised as lacking evidential foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed to redundancies.
+Masked Sentence: The methodology of speculating [MASK] [MASK] employment levels has [MASK] [MASK] as lacking [MASK] foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed [MASK] redundancies.
+Actual Marker: evidential
+Predicted Tokens: ['economic', 'empirical', 'theoretical', 'historical', 'scientific', 'social', 'firm', 'financial', 'political', 'intellectual', 'legal', 'rational', 'academic', 'any', 'moral', 'ideological', 'factual', 'research', 'institutional']
+Correct: No
+
+Original Sentence: The methodology of speculating about future employment levels has been criticised as lacking evidential foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed to redundancies.
+Masked Sentence: The methodology of speculating [MASK] [MASK] employment levels has [MASK] [MASK] as lacking [MASK] foundation, and for implying that technology, rather than social policy, creates unemployment, as opposed [MASK] redundancies.
+Actual Marker: to
+Predicted Tokens: ['to', 'towards', 'than', 'toward', 'with', 'against', 'the', 'as', 'from', 'too', 'by', 'and', 'matter', 'should', 'for', 'only', 'not']
+Correct: Yes
+
+Original Sentence: This means they are restricted to performing tasks within their defined scope and have finite memory and processing capabilities.
+Masked Sentence: This means they are [MASK] to [MASK] tasks within their defined scope and have finite [MASK] and processing capabilities.
+Actual Marker: restricted
+Predicted Tokens: ['able', 'designed', 'unable', 'capable', 'allowed', 'free', 'limited', 'required', 'expected', 'ready', 'restricted', 'used', 'equipped', 'willing', 'constrained', 'slow', 'guaranteed', 'available', 'easy', 'programmed']
+Correct: Yes
+
+Original Sentence: This means they are restricted to performing tasks within their defined scope and have finite memory and processing capabilities.
+Masked Sentence: This means they are [MASK] to [MASK] tasks within their defined scope and have finite [MASK] and processing capabilities.
+Actual Marker: performing
+Predicted Tokens: ['perform', 'execute', 'handle', 'complete', 'do', 'run', 'implement', 'solve', 'performing', 'accomplish', 'support', 'have', 'conduct', 'manage', 'work', 'compute', 'execution', 'operate', 'undertake', 'achieve']
+Correct: Yes
+
+Original Sentence: This means they are restricted to performing tasks within their defined scope and have finite memory and processing capabilities.
+Masked Sentence: This means they are [MASK] to [MASK] tasks within their defined scope and have finite [MASK] and processing capabilities.
+Actual Marker: memory
+Predicted Tokens: ['memory', 'processing', 'execution', 'control', 'data', 'storage', 'display', 'computing', 'programming', 'computation', 'performance', 'communication', 'input', 'handling', 'learning', 'graphics', 'language', 'support', 'detection', 'scheduling']
+Correct: Yes
+
+Original Sentence: It begins with some form of guess and refines it incrementally.
+Masked Sentence: It begins with some form of [MASK] and [MASK] it incrementally.
+Actual Marker: guess
+Predicted Tokens: ['prayer', 'speech', 'music', 'rhyme', 'thought', 'poetry', 'meaning', 'rhythm', 'repetition', 'melody', 'stress', 'logic', 'introduction', 'action', 'language', 'explanation', 'meditation', 'text', 'movement', 'mantra']
+Correct: No
+
+Original Sentence: It begins with some form of guess and refines it incrementally.
+Masked Sentence: It begins with some form of [MASK] and [MASK] it incrementally.
+Actual Marker: refines
+Predicted Tokens: ['repeats', 'follows', 'continues', 'progresses', 'extends', 'develops', 'ends', 'changes', 'proceeds', 'does', 'finishes', 'increases', 'builds', 'takes', 'becomes', 'expands', 'concludes', 'applies', 'approaches', 'moves']
+Correct: No
+
+Original Sentence: The deployment of AI may be overseen by a Chief automation officer (CAO).
+Masked Sentence: The deployment of AI may be overseen by a Chief [MASK] [MASK] (CAO).
+Actual Marker: automation
+Predicted Tokens: ['executive', 'officer', 'administrator', 'commander', 'engineer', 'minister', 'secretary', 'controller', 'general', 'scientist', 'advisor', 'inspector', 'adviser', 'cao', 'admiral', 'deputy', 'commandant', 'leader', 'of', 'official']
+Correct: No
+
+Original Sentence: The deployment of AI may be overseen by a Chief automation officer (CAO).
+Masked Sentence: The deployment of AI may be overseen by a Chief [MASK] [MASK] (CAO).
+Actual Marker: officer
+Predicted Tokens: ['officer', 'executive', 'administrator', 'commander', 'official', 'advisor', 'general', 'engineer', 'minister', 'controller', 'scientist', 'adviser', 'warlord', 'inspector', 'cao', 'secretary', 'leader', 'admiral', 'commandant', 'authority']
+Correct: Yes
+
+Original Sentence: Deep learning is a type of machine learning that runs inputs through biologically inspired artificial neural networks for all of these types of learning.
+Masked Sentence: Deep learning is a type of machine learning that runs inputs through biologically [MASK] artificial neural networks for all of [MASK] types of learning.
+Actual Marker: inspired
+Predicted Tokens: ['based', 'generated', 'controlled', 'induced', 'active', 'defined', 'directed', 'driven', 'modeled', 'derived', 'coupled', 'engineered', 'constructed', 'motivated', 'determined', 'simulated', 'inspired', 'supported', 'modified', 'interactive']
+Correct: Yes
+
+Original Sentence: Deep learning is a type of machine learning that runs inputs through biologically inspired artificial neural networks for all of these types of learning.
+Masked Sentence: Deep learning is a type of machine learning that runs inputs through biologically [MASK] artificial neural networks for all of [MASK] types of learning.
+Actual Marker: these
+Predicted Tokens: ['these', 'the', 'three', 'its', 'four', 'those', 'different', 'five', 'several', 'their', 'various', 'six', 'other', 'many', 'seven', 'two', 'eight', 'possible']
+Correct: Yes
+
+Original Sentence: "Scruffies" expect that it necessarily requires solving a large number of unrelated problems.
+Masked Sentence: "Scruffies" expect that [MASK] necessarily requires solving a large [MASK] of unrelated problems.
+Actual Marker: it
+Predicted Tokens: ['solving', 'learning', 'this', 'success', 'research', 'it', 'education', 'work', 'mathematics', 'math', 'science', 'solve', 'knowledge', 'programming', 'complexity', 'optimization', 'development', 'communication', 'thinking', 'life']
+Correct: Yes
+
+Original Sentence: "Scruffies" expect that it necessarily requires solving a large number of unrelated problems.
+Masked Sentence: "Scruffies" expect that [MASK] necessarily requires solving a large [MASK] of unrelated problems.
+Actual Marker: number
+Predicted Tokens: ['number', 'set', 'variety', 'group', 'amount', 'array', 'range', 'collection', 'series', 'class', 'list', 'proportion', 'numbers', 'quantity', 'majority', 'percentage', 'network', 'body', 'volume', 'family']
+Correct: Yes
+
+Original Sentence: On the other hand, Singapore imposed a ban on the opening of data centers in 2019 due to electric power, but in 2022, lifted this ban.
+Masked Sentence: [MASK] the other hand, Singapore imposed a ban on the opening of data centers [MASK] 2019 due to electric power, [MASK] in 2022, [MASK] this ban.
+Actual Marker: On
+Predicted Tokens: ['on', 'in', 'at', 'to', 'for', 'with', 'of', 'upon', 'from', 'under', 'by', 'along', 'against', 'as', 'the', 'and', 'off', 'onto']
+Correct: No
+
+Original Sentence: On the other hand, Singapore imposed a ban on the opening of data centers in 2019 due to electric power, but in 2022, lifted this ban.
+Masked Sentence: [MASK] the other hand, Singapore imposed a ban on the opening of data centers [MASK] 2019 due to electric power, [MASK] in 2022, [MASK] this ban.
+Actual Marker: in
+Predicted Tokens: ['in', 'by', 'until', 'from', 'after', 'before', 'since', 'for', 'during', 'through', 'around', 'to', 'beyond', 'into', 'starting', 'throughout', 'within', 'on', 'till', 'beginning']
+Correct: Yes
+
+Original Sentence: On the other hand, Singapore imposed a ban on the opening of data centers in 2019 due to electric power, but in 2022, lifted this ban.
+Masked Sentence: [MASK] the other hand, Singapore imposed a ban on the opening of data centers [MASK] 2019 due to electric power, [MASK] in 2022, [MASK] this ban.
+Actual Marker: but
+Predicted Tokens: ['and', 'which', 'starting', 'or', 'but', 'beginning', 'introduced', 'completed', 'opening', 'installed', 'peaking', 'ending', 'particularly', 'delivered', 'announced', 'proposed', 'especially', 'also', 'expected', 'launched']
+Correct: Yes
+
+Original Sentence: On the other hand, Singapore imposed a ban on the opening of data centers in 2019 due to electric power, but in 2022, lifted this ban.
+Masked Sentence: [MASK] the other hand, Singapore imposed a ban on the opening of data centers [MASK] 2019 due to electric power, [MASK] in 2022, [MASK] this ban.
+Actual Marker: lifted
+Predicted Tokens: ['violating', 'replacing', 'despite', 'removed', 'following', 'ending', 'removing', 'repealed', 'removes', 'with', 'replaces', 'avoiding', 'lifting', 'under', 'below', 'against', 'surpassing', 'eliminating', 'replaced', 'notwithstanding']
+Correct: No
+
+Original Sentence: General intelligence—the ability to complete any task performable by a human on an at least equal level—is among the field's long-term goals.
+Masked Sentence: General intelligence—the ability [MASK] complete any task performable by a [MASK] on an [MASK] least equal level—is [MASK] the field's long-term goals.
+Actual Marker: to
+Predicted Tokens: ['to', 'of', 'for', 'can', 'that', 'in', 'at', 'and', 'will', 'or', 'with', 'toward', 'towards', 'the', 'tae', 'may', 'could']
+Correct: Yes
+
+Original Sentence: General intelligence—the ability to complete any task performable by a human on an at least equal level—is among the field's long-term goals.
+Masked Sentence: General intelligence—the ability [MASK] complete any task performable by a [MASK] on an [MASK] least equal level—is [MASK] the field's long-term goals.
+Actual Marker: human
+Predicted Tokens: ['team', 'person', 'human', 'group', 'field', 'scientist', 'player', 'character', 'subject', 'unit', 'member', 'individual', 'soldier', 'professional', 'computer', 'leader', 'civilian', 'program', 'specialist', 'man']
+Correct: Yes
+
+Original Sentence: General intelligence—the ability to complete any task performable by a human on an at least equal level—is among the field's long-term goals.
+Masked Sentence: General intelligence—the ability [MASK] complete any task performable by a [MASK] on an [MASK] least equal level—is [MASK] the field's long-term goals.
+Actual Marker: at
+Predicted Tokens: ['at', 'absolute', 'or', 'extreme', 'extremely', 'even', 'in', 'apparently', 'and', 'often', 'expected', 'iq', 'overall', 'absolutely', 'assigned', 'the', 'individual', 'apparent', 'above', 'integer']
+Correct: Yes
+
+Original Sentence: General intelligence—the ability to complete any task performable by a human on an at least equal level—is among the field's long-term goals.
+Masked Sentence: General intelligence—the ability [MASK] complete any task performable by a [MASK] on an [MASK] least equal level—is [MASK] the field's long-term goals.
+Actual Marker: among
+Predicted Tokens: ['beyond', 'above', 'within', 'among', 'below', 'outside', 'meeting', 'exceeding', 'against', 'setting', 'amongst', 'in', 'fulfilling', 'at', 'worth', 'considered', 'behind', 'often', 'supporting', 'toward']
+Correct: Yes
+
+Original Sentence: When natural language is used to describe mathematical problems, converters transform such prompts into a formal language such as Lean to define mathematic tasks.
+Masked Sentence: When natural language is [MASK] [MASK] describe mathematical problems, converters transform such prompts into a formal language such [MASK] Lean to define mathematic tasks.
+Actual Marker: used
+Predicted Tokens: ['used', 'needed', 'required', 'written', 'designed', 'intended', 'able', 'utilized', 'chosen', 'necessary', 'created', 'asked', 'invoked', 'employed', 'programmed', 'compiled', 'developed', 'introduced', 'included', 'unable']
+Correct: Yes
+
+Original Sentence: When natural language is used to describe mathematical problems, converters transform such prompts into a formal language such as Lean to define mathematic tasks.
+Masked Sentence: When natural language is [MASK] [MASK] describe mathematical problems, converters transform such prompts into a formal language such [MASK] Lean to define mathematic tasks.
+Actual Marker: to
+Predicted Tokens: ['to', 'for', 'in', 'and', 'can', 'into', 'or', 'that', 'as', 'cannot', 'by', 'onto', 'help', 'may', 'could', 'which', 'on', 'with']
+Correct: Yes
+
+Original Sentence: When natural language is used to describe mathematical problems, converters transform such prompts into a formal language such as Lean to define mathematic tasks.
+Masked Sentence: When natural language is [MASK] [MASK] describe mathematical problems, converters transform such prompts into a formal language such [MASK] Lean to define mathematic tasks.
+Actual Marker: as
+Predicted Tokens: ['as', 'is', 'the', 'an', 'that', 'called', 'like', 'using', 'and', 'in', 'named', 'or', 'with', 'to', 'was', 'how']
+Correct: Yes
+
+Original Sentence: "Heuristics" or "rules of thumb" can help prioritize choices that are more likely to reach a goal.
+Masked Sentence: "Heuristics" or "rules of thumb" can help prioritize [MASK] that are more likely to reach a goal.
+Actual Marker: choices
+Predicted Tokens: ['actions', 'activities', 'goals', 'strategies', 'behaviors', 'decisions', 'programs', 'methods', 'practices', 'approaches', 'projects', 'solutions', 'processes', 'ideas', 'applications', 'systems', 'efforts', 'those', 'groups', 'operations']
+Correct: No
+
+Original Sentence: Such machines may be called AIs.
+Masked Sentence: [MASK] machines may be called AIs.
+Actual Marker: Such
+Predicted Tokens: ['such', 'these', 'the', 'some', 'ai', 'those', 'virtual', 'other', 'artificial', 'similar', 'intelligent', 'turing', 'automated', 'modern', 'many', 'individual', 'autonomous', 'certain', 'computer', 'their']
+Correct: No
+
+Original Sentence: These can be learned (e.g., with inverse reinforcement learning), or the agent can seek information to improve its preferences.
+Masked Sentence: These can be [MASK] (e.g., with inverse reinforcement learning), [MASK] the agent can seek information [MASK] improve its preferences.
+Actual Marker: learned
+Predicted Tokens: ['combined', 'generalized', 'nonlinear', 'enhanced', 'selective', 'adaptive', 'mixed', 'integrated', 'improved', 'coupled', 'implemented', 'used', 'automated', 'independent', 'effective', 'optimization', 'efficient', 'interactive', 'extended']
+Correct: No
+
+Original Sentence: These can be learned (e.g., with inverse reinforcement learning), or the agent can seek information to improve its preferences.
+Masked Sentence: These can be [MASK] (e.g., with inverse reinforcement learning), [MASK] the agent can seek information [MASK] improve its preferences.
+Actual Marker: or
+Predicted Tokens: ['where', 'and', 'as', 'or', 'because', 'so', 'since', 'when', 'if', 'but', 'whereby', 'that', 'meaning', 'wherein', 'then', 'which', 'how', 'provided', 'while', 'although']
+Correct: Yes
+
+Original Sentence: These can be learned (e.g., with inverse reinforcement learning), or the agent can seek information to improve its preferences.
+Masked Sentence: These can be [MASK] (e.g., with inverse reinforcement learning), [MASK] the agent can seek information [MASK] improve its preferences.
+Actual Marker: to
+Predicted Tokens: ['to', 'and', 'that', 'or', 'which', 'can', 'for', 'but', 'will', 'by', 'into', 'then', 'in', 'could', 'so', 'would']
+Correct: Yes
+
+Original Sentence: Deep learning's success was based on both hardware improvements (faster computers, graphics processing units, cloud computing) and access to large amounts of data (including curated datasets, such as ImageNet).
+Masked Sentence: Deep learning's success was based on [MASK] hardware improvements (faster computers, graphics processing units, cloud computing) and access to [MASK] amounts of data (including [MASK] datasets, such as ImageNet).
+Actual Marker: both
+Predicted Tokens: ['its', 'major', 'significant', 'numerous', 'several', 'various', 'the', 'rapid', 'many', 'both', 'large', 'substantial', 'technological', 'new', 'recent', 'massive', 'multiple', 'advanced', 'extensive', 'technology']
+Correct: Yes
+
+Original Sentence: Deep learning's success was based on both hardware improvements (faster computers, graphics processing units, cloud computing) and access to large amounts of data (including curated datasets, such as ImageNet).
+Masked Sentence: Deep learning's success was based on [MASK] hardware improvements (faster computers, graphics processing units, cloud computing) and access to [MASK] amounts of data (including [MASK] datasets, such as ImageNet).
+Actual Marker: large
+Predicted Tokens: ['large', 'vast', 'huge', 'larger', 'massive', 'enormous', 'significant', 'greater', 'substantial', 'small', 'great', 'tremendous', 'increasing', 'smaller', 'immense', 'considerable', 'unprecedented', 'extensive', 'higher', 'high']
+Correct: Yes
+
+Original Sentence: Deep learning's success was based on both hardware improvements (faster computers, graphics processing units, cloud computing) and access to large amounts of data (including curated datasets, such as ImageNet).
+Masked Sentence: Deep learning's success was based on [MASK] hardware improvements (faster computers, graphics processing units, cloud computing) and access to [MASK] amounts of data (including [MASK] datasets, such as ImageNet).
+Actual Marker: curated
+Predicted Tokens: ['large', 'larger', 'other', 'big', 'huge', 'smaller', 'structured', 'major', 'multimedia', 'common', 'extended', 'small', 'existing', 'distributed', 'new', 'complex', 'multiple', 'network', 'important', 'core']
+Correct: No
+
+
+Evaluation Metrics:
+Accuracy: 0.75
+Precision: 1.00
+Recall: 0.75
+F1 Score: 0.85
+
+Top 20 Most Common Masked Words:
+to: 7
+in: 5
+the: 4
+and: 4
+of: 3
+but: 3
+that: 2
+by: 2
+making: 2
+are: 2
+their: 2
+as: 2
+been: 2
+used: 2
+Americans: 1
+an: 1
+regulate: 1
+External: 1
+more: 1
+liberal: 1
+
+Top 20 Most Common Predicted Words:
+and: 34
+in: 30
+for: 28
+to: 27
+with: 27
+the: 25
+or: 23
+as: 20
+of: 20
+from: 19
+that: 18
+on: 16
+by: 15
+but: 13
+at: 11
+which: 10
+into: 10
+other: 10
+can: 10
+if: 9
